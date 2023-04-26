@@ -1,0 +1,19 @@
+g {
+  padding: auto;
+  background-color: rgb(109, 199, 6);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  flex-direction: column;
+
+  margin-bottom: 5px;
+  display: inline;
+  margin: auto;
+
+  height: 5px;
+  margin-top: 20px;
+  border: 1 solid black;
+  gap: 5px;
+}
